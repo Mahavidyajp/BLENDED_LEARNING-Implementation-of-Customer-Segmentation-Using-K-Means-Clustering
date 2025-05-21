@@ -1,5 +1,5 @@
 # Implementation of Customer Segmentation Using K-Means Clustering
-<H3>NAME: MAHA VIDYA J P S</H3>
+<H3>NAME: MAHA VIDYA J P</H3>
 <H3>REGISTER NO.: 212223220054</H3>
 <H3>EX. NO.9</H3>
 <H3>DATE:</H3>
